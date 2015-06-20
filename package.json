@@ -1,7 +1,7 @@
 {
-  "name": "achievements",
+  "name": "yandex-testblock",
   "version": "1.0.0",
-  "description": "Achievements markup",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,7 @@
     "build": "./node_modules/.bin/gulp"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.inn.ru/sima-chetverukhin/Achievements.git"
+    "type": "git"
   },
   "author": "",
   "devDependencies": {
@@ -23,5 +22,8 @@
     "gulp-watch": "~4.2.0",
     "gulp-plumber": "~1.0.0",
     "less-plugin-autoprefix": "~1.4.0"
+  },
+  "dependencies": {
+    "gulp-install": "^0.4.0"
   }
 }
