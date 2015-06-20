@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-5" sketch:type="MSArtboardGroup" transform="translate(-128.000000, -272.000000)">
+            <rect id="Rectangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="562" height="568"></rect>
+            <g id="card" sketch:type="MSLayerGroup" transform="translate(8.000000, 10.000000)" fill="#F2C200">
+                <g id="rate" transform="translate(120.000000, 262.000000)" sketch:type="MSShapeGroup">
+                    <g id="stars">
+                        <path d="M6.30914743,-2.66453526e-15 L7.7981348,4.58363648 L12.6175012,4.58363648 L8.71883061,7.41636352 L10.2086117,12 L6.30914743,9.16727297 L2.41047688,12 L3.89946425,7.41636352 L1.687539e-14,4.58363648 L4.81936636,4.58363648 L6.30914743,-2.66453526e-15 Z" id="star"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

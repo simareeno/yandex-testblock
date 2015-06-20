@@ -1,0 +1,140 @@
+body {
+  font: 12px/14px Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+h1 {
+  font-size: 24px;
+  line-height: 44px;
+  font-weight: normal;
+  margin: 0;
+}
+h2 {
+  font-size: 16px;
+  font-weight: normal;
+  margin: 1px 0 10px;
+}
+a {
+  color: #666699;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  -o-transition: color 0.15s ease-out;
+     transition: color 0.15s ease-out;
+}
+.viewport {
+  width: 320px;
+  height: 568px;
+  padding: 19px 14px 68px;
+  box-sizing: border-box;
+}
+.product__photo {
+  display: inline-block;
+  margin: 0 7px 0 -6px;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+.product__specs {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 13px;
+}
+.product__specs__price {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.product__specs__speclist {
+  line-height: 20px;
+  list-style: none;
+  padding: 0 0 0 2px;
+  margin: 10px 0 0;
+}
+.product__specs__stars {
+  margin: 7px 8px 0 2px;
+  display: inherit;
+}
+.product__specs__stars__star {
+  fill: #d6d6d6;
+  width: 10px;
+  display: inherit;
+}
+.product__specs__stars__star--achieved {
+  fill: #f2c200;
+}
+.product__specs__reviews {
+  display: inherit;
+  vertical-align: 1px;
+}
+.similar {
+  margin-top: 21px;
+}
+.similar__headline {
+  position: relative;
+  display: inline;
+  font-size: 11px;
+  color: #999999;
+  letter-spacing: 1.39px;
+  line-height: 12px;
+  text-transform: uppercase;
+}
+.similar__headline:after {
+  margin-left: 23px;
+}
+.similar__headline:before {
+  margin-right: 23px;
+}
+.similar {
+  margin-top: 21px;
+}
+.similar__headline {
+  position: relative;
+  display: inline;
+  font-size: 11px;
+  color: #999999;
+  letter-spacing: 1.39px;
+  line-height: 12px;
+  text-transform: uppercase;
+}
+.similar__headline:after,
+.similar__headline:before {
+  content: '';
+  height: 1px;
+  display: inline-block;
+  background-color: #ccc;
+  width: 89px;
+  vertical-align: middle;
+}
+.similar__headline:after {
+  margin-left: 23px;
+}
+.similar__headline:before {
+  margin-right: 23px;
+}
+.similar__items {
+  width: 306px;
+  margin-top: 22px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.similar__items__item {
+  display: inline-block;
+  font-size: 12px;
+}
+.similar__items__item__name {
+  line-height: 15px;
+  margin: 4px 0 3px;
+  padding-left: 3px;
+  max-width: 69px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.similar__items__item__price {
+  color: black;
+  font-weight: bold;
+  padding-left: 3px;
+}
+.similar__overflow {
+  width: 375px;
+}
